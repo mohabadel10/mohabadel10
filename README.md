@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Mohab
 
-<!--
-**mohabadel10/mohabadel10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | SQL | Excel | Data Visualization
 
-Here are some ideas to get you started:
+I'm building my skills in Data Analysis with a focus on turning raw data into clear insights and business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills & Tools
+
+- SQL / MySQL
+- Excel
+- Power BI
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+
+
+### Currently Learning 
+
+- Advanced SQL
+- Power BI
+- Data Visualization
+- Business Analytics
+
+
+### Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/mohab-adel10m/)
+[GitHub](https://github.com/mohabadel10)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
