@@ -24,7 +24,7 @@ I'm building my skills in Data Analysis with a focus on turning raw data into cl
 
 ### Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/mohab-adel10m/) | [GitHub](https://github.com/mohabadel10)
+[LinkedIn](https://www.linkedin.com/in/mohab-adel10m/) · [GitHub](https://github.com/mohabadel10)
 
 
 
