@@ -8,6 +8,7 @@ I'm building my skills in Data Analysis with a focus on turning raw data into cl
 
 - SQL / MySQL
 - Excel
+- Power Query
 - Tableau
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
