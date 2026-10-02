@@ -9,6 +9,7 @@ I'm building my skills in Data Analysis with a focus on turning raw data into cl
 - SQL / MySQL
 - Excel
 - Power Query
+- Power BI
 - Tableau
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
@@ -18,9 +19,8 @@ I'm building my skills in Data Analysis with a focus on turning raw data into cl
 ### Currently Learning 
 
 - Advanced SQL
-- Power BI
-- Data Visualization
 - Business Analytics
+- Python
 
 
 ### Connect with me
