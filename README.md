@@ -1,6 +1,6 @@
 # Hi, I'm Mohab
 
-### Aspiring Data Analyst | SQL | Excel | Data Visualization
+### Aspiring Data Analyst | SQL | Excel | Power BI
 
 I'm building my skills in Data Analysis with a focus on turning raw data into clear insights and business decisions.
 
